@@ -1,6 +1,7 @@
 # Ders Materyalleri
 
 - [Github Öğrenci Başvuru](https://education.github.com/pack) adresinden öğrenci kaydı oluşturulacak
+- [Git](https://git-scm.com/downloads) adresinden uygulamayı indirip kurun.
 - [Github Masaüstü Uygulaması](https://desktop.github.com/) adresinden uygulama indirilip kurulduktan sonra oluşturulan öğrenci kaydı üzerinden uygulamaya griş yapılacak.
 - [Jetbrains Öğrenci Kayıt Formu](https://www.jetbrains.com/shop/eform/students) adresindeki form doldurulacak. Formda istenen eposta adresiniz gazi.edu.tr uzantılı olmalıdır aksi halde onay verilmeyecektir.
 - [Python](https://www.python.org/downloads/) adresinden Python'ın son sürümünü inidirip bilgisayarınıza kurun.
