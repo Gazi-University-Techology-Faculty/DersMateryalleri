@@ -7,5 +7,6 @@
 - [Anaconda](https://www.anaconda.com/products/individual) adresinden Anaconda uygulmasını bilgisayarınıza indirip kurun.
 - [Stackoverflow](https://stackoverflow.com/) adresinden yeni bir kullanıcı profili oluşturun.
 - [Jetbrains Kullanıcı Girişi](https://account.jetbrains.com/login) adresinden giriş yaparak açılan sayfada **Licenses** sekmesinden **PyCharm** uygulamasını indirin.
+- Herhangi bir sorunuz olursa `admin@tolgaduran.com` eposta adresi veya `+90(530)467 2660` numaralı telefondan ulaşabilirsiniz.
 
 #### NOT : Jetbrains ve Github öğrenci başvuru onayları ortalama 1 hafta içerisinde başvuru yaparken vermiş olduğunuz eposta adresine gelecektir. Kullandığınız eposta adresinizin `gazi.edu.tr` uzantılı olduğuna dikkat edin aksi halde onay alamayabilirsiniz.
